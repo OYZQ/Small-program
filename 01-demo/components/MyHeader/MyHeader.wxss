@@ -1,0 +1,5 @@
+/* components/MyHeader/MyHeader.wxss */
+.my_heasder{
+  font-size: 50px;
+  background-color: blue;
+} 

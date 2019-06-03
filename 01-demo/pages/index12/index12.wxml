@@ -1,0 +1,9 @@
+<!-- 保留当前页面，跳转到应用内的某个页面，但是不能跳转到tabber页面 -->
+<navigator url="../index11/index11" open-type="navigate">index11</navigator> 
+<!-- redirect关闭当前页面，跳转到应用内的某个页面，但是不允许跳转到tabber页面 -->
+<navigator url="../index11/index11" open-type="redirect">index11</navigator> 
+<!-- 跳转到tabbar页面，并非关闭其他所有非tabber页面 -->
+<navigator url="../index/index" open-type="switchTab">首页</navigator> 
+<!-- 关闭所有页面，打开到应用内的某个页面 -->
+<navigator url="../index11/index11" open-type="reLaunch">index11</navigator> 
+

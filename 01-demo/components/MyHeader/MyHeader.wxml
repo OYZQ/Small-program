@@ -1,0 +1,6 @@
+<view class="my_heasder ">
+  {{cData}}
+  <view>
+    <slot></slot>
+  </view>
+</view>

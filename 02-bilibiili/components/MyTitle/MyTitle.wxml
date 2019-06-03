@@ -1,0 +1,18 @@
+<view class="my_title">
+    <!-- logo -->
+    <navigator class="logo">
+        <image class="logo_iag" style="width: 140rpx;height:60rpx" src="../../icons/logo2.png"></image>
+    </navigator>   
+    <!-- 搜索 -->
+    <view class="search_icon">
+        <image style="width: 60rpx;height:44rpx" src="../../icons/search.png"></image>
+    </view>
+    <!-- 用户 -->
+    <view class="user_icon">
+        <image style="width: 54rpx;height:60rpx" src="../../icons/user.png"></image>
+    </view>
+    <!-- 下载按钮 -->
+    <view class="down_app">
+        下载App
+    </view>
+</view>
