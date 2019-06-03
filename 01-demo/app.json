@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/index11/index11",
+    "pages/index10/index10",
+    "pages/index9/index9",
+    "pages/index8/index8",
+    "pages/index7/index7",
+    "pages/index6/index6",
+    "pages/index5/index5",
+    "pages/index4/index4",
+    "pages/index3/index3",
+    "pages/index2/index2",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#ccc",
+    "navigationBarTitleText": "全局-首页",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh":true
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color":"#000",
+    "selectedColor":"#f23030",
+    "backgroundColor":"#ccc",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "borderStyle":"white",
+      "text": "首页",
+      "iconPath": "icons/index.png",
+      "selectedIconPath": "icons/index_active.png"
+    },
+    {
+      "pagePath": "pages/logs/logs",
+      "text": "日志",
+      "iconPath": "icons/category.png",
+      "selectedIconPath": "icons/category_active.png"
+    }]
+  }
+}

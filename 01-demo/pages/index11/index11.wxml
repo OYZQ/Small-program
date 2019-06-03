@@ -1,0 +1,5 @@
+<swiper autoplay indicator-dots indicator-color="#ccc" indicator-active-color="red" circular interval="2000">
+  <swiper-item><image mode="widthFix" src="../../images/1.jpg"></image></swiper-item>
+  <swiper-item><image mode="widthFix" src="../../images/2.jpg"></image></swiper-item>
+  <swiper-item><image mode="widthFix" src="../../images/3.jpg"></image></swiper-item>
+</swiper>

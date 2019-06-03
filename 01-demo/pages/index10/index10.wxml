@@ -1,0 +1,4 @@
+<view>
+<!-- image标签是web中的img标签和背景图片的结合体 -->
+  <image src="../../images/heima.png" mode="center"></image>
+</view>

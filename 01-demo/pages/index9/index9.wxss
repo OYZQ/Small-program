@@ -1,0 +1,5 @@
+/* pages/index9/index9.wxss */
+.hover_class{
+  background-color: aqua;
+  
+}
