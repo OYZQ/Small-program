@@ -4,7 +4,6 @@
 
 本Demo成品来自B站教程视频,如想看原视频,请移步:https://www.bilibili.com/video/av40455083/
 
-**5月1日之后由于接口的视频资源域名失效，所以点击进视频页后有加载不出来的情况，近日会更新新接口（咕咕咕咕咕咕咕）**
 
 # 新人一定要看使用须知,一定要看使用须知,一定要看使用须知,重要的事情要说三遍
 
@@ -52,8 +51,5 @@ HTML/CSS,JavaScript即可.其中JavaScript最好是会ES6的语法,而Vue的话�
 
 ### 效果图
 
-![index](H:\weixin\02-bilibiili\效果图\index.png)
-
-
-
-![detail](H:\weixin\02-bilibiili\效果图\detail.png)
+![index](https://github.com/OYZQ/Small-program/blob/master/02-bilibiili/images/index.png)
+![detail](https://github.com/OYZQ/Small-program/blob/master/02-bilibiili/images/detail.png)
